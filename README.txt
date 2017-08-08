@@ -1,1 +1,0 @@
-git@github.com:FrankdeBoers/CameraWallpaperDemo.git
